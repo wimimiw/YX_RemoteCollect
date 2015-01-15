@@ -1,0 +1,9 @@
+C:\Users\WIMIMIW\Desktop\RemoteCollect\ClientDemo\ClientDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\WIMIMIW\Desktop\RemoteCollect\ClientDemo\ClientDemo\obj\x86\Debug\ClientDemo.Form1.resources
+C:\Users\WIMIMIW\Desktop\RemoteCollect\ClientDemo\ClientDemo\obj\x86\Debug\ClientDemo.Properties.Resources.resources
+C:\Users\WIMIMIW\Desktop\RemoteCollect\ClientDemo\ClientDemo\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\WIMIMIW\Desktop\RemoteCollect\ClientDemo\ClientDemo\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\WIMIMIW\Desktop\RemoteCollect\ClientDemo\ClientDemo\bin\Debug\ClientDemo.exe
+C:\Users\WIMIMIW\Desktop\RemoteCollect\ClientDemo\ClientDemo\bin\Debug\ClientDemo.pdb
+C:\Users\WIMIMIW\Desktop\RemoteCollect\ClientDemo\ClientDemo\obj\x86\Debug\ClientDemo.exe
+C:\Users\WIMIMIW\Desktop\RemoteCollect\ClientDemo\ClientDemo\obj\x86\Debug\ClientDemo.pdb

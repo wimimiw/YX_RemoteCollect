@@ -1,0 +1,12 @@
+C:\Users\WIMIMIW\Desktop\RemoteCollect\RemoteCollect\RemoteCollect\bin\Debug\RemoteCollect.exe
+C:\Users\WIMIMIW\Desktop\RemoteCollect\RemoteCollect\RemoteCollect\bin\Debug\RemoteCollect.pdb
+C:\Users\WIMIMIW\Desktop\RemoteCollect\RemoteCollect\RemoteCollect\bin\Debug\Interop.ADOX.dll
+C:\Users\WIMIMIW\Desktop\RemoteCollect\RemoteCollect\RemoteCollect\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\WIMIMIW\Desktop\RemoteCollect\RemoteCollect\RemoteCollect\obj\x86\Debug\Interop.ADOX.dll
+C:\Users\WIMIMIW\Desktop\RemoteCollect\RemoteCollect\RemoteCollect\obj\x86\Debug\RemoteCollect.csproj.ResolveComReference.cache
+C:\Users\WIMIMIW\Desktop\RemoteCollect\RemoteCollect\RemoteCollect\obj\x86\Debug\RemoteCollect.Form1.resources
+C:\Users\WIMIMIW\Desktop\RemoteCollect\RemoteCollect\RemoteCollect\obj\x86\Debug\RemoteCollect.Properties.Resources.resources
+C:\Users\WIMIMIW\Desktop\RemoteCollect\RemoteCollect\RemoteCollect\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\WIMIMIW\Desktop\RemoteCollect\RemoteCollect\RemoteCollect\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\WIMIMIW\Desktop\RemoteCollect\RemoteCollect\RemoteCollect\obj\x86\Debug\RemoteCollect.exe
+C:\Users\WIMIMIW\Desktop\RemoteCollect\RemoteCollect\RemoteCollect\obj\x86\Debug\RemoteCollect.pdb
